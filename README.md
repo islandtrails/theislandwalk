@@ -9,4 +9,5 @@ This repository contains GIS data, maps, and other resources related to the walk
 ## Route Maps
 
 * [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/gpx/theislandwalk.gpx)
-* [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/geojson/theislandwalk.geojson) [preview](https://github.com/islandtrails/theislandwalk/blob/main/routemap/geojson/theislandwalk.geojson)
+* [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/geojson/theislandwalk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/routemap/geojson/theislandwalk.geojson))
+* [theislandwalk.info](https://theislandwalk.info) -- a simple web application showing the route map and 32 days of waypoints
