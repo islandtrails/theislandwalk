@@ -18,9 +18,13 @@ This repository contains GIS data, maps, and other resources related to the walk
 
 The route of The Island Walk to the east of Summerside has been altered between Bedeque and Summerside: at the intersection of Route 1A and the MacMurdo Road, the route previously continued along Route 1A to Read's Corner; the route now turns right onto MacMurdo Road to the Blue Shank Road, takes a short jog left and then right onto the Wilmot Valley Road, where it joins the trail route coming from Summerside.
 
-In this image, the previous route is shown in blue and the update route is showing in red.
+In the images below, the previous route is shown in blue and the update route is showing in red.
+
+### Detailed Map of Changes
 
 ![Map detail showing modified route of The Island Walk from Bedeque to Summerside](images/bedeque-changes-detail-2024-03-20.png)
+
+### Overview Map of Changes
 
 ![Map overview showing the area of the modified route of The Island Walk from Bedeque to Summerside](images/bedeque-changes-overview-2024-03-20.png)
 
