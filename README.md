@@ -20,11 +20,11 @@ The route of The Island Walk to the east of Summerside has been altered between 
 
 In the images below, the previous route is shown in blue and the update route is showing in red.
 
-### Detailed Map of Changes
+#### Detailed Map of Changes
 
 ![Map detail showing modified route of The Island Walk from Bedeque to Summerside](images/bedeque-changes-detail-2024-03-20.png)
 
-### Overview Map of Changes
+#### Overview Map of Changes
 
 ![Map overview showing the area of the modified route of The Island Walk from Bedeque to Summerside](images/bedeque-changes-overview-2024-03-20.png)
 
