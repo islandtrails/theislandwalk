@@ -11,3 +11,15 @@ This repository contains GIS data, maps, and other resources related to the walk
 * [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/gpx/theislandwalk.gpx)
 * [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/geojson/theislandwalk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/routemap/geojson/theislandwalk.geojson))
 * [theislandwalk.info](https://theislandwalk.info) -- a simple web application showing the route map and 32 days of waypoints
+
+## Changelog
+
+### 2024-03-20
+
+* The route of The Island Walk to the east of Summerside has been altered between Bedeque and Summerside: at the intersection of Route 1A and the MacMurdo Road, the route previously continued along Route 1A to Read's Corner; the route now turns right onto MacMurdo Road to the Blue Shank Road, takes a short jog left and then right onto the Wilmot Valley Road, where it joins the trail route coming from Summerside.
+
+![Map detail showing modified route of The Island Walk from Bedeque to Summerside](images/bedeque-changes-detail-2024-03-20.png)
+
+![Map overview showing the area of the modified route of The Island Walk from Bedeque to Summerside](images/bedeque-changes-overview-2024-03-20.png)
+
+
