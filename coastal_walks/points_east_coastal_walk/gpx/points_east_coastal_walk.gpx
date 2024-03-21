@@ -15,6 +15,11 @@
 <trk>
     <name>The Points East Coastal Walk</name>
     <type>Walking</type>
+    <extensions>
+        <gpx_style:line>
+        <color>ff40ff</color>
+        </gpx_style:line>
+    </extensions>
     <trkseg>
     <trkpt lat="46.24103" lon="-63.11932">
         <ele>3.0</ele>

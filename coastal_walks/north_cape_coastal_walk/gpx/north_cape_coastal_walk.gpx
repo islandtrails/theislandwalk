@@ -13,8 +13,8 @@
     <time>2024-03-20T10:10:00Z</time>
 </metadata>
 <trk>
-    <name>theislandwalk</name>
-    <type>Running</type>
+    <name>The North Cape Coastal Walk</name>
+    <type>Walking</type>
     <extensions>
         <gpx_style:line>
         <color>ff40ff</color>
@@ -23,136 +23,45 @@
     <trkseg>
     <trkpt lat="46.390773" lon="-63.78878">
         <ele>4.3</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390774" lon="-63.78879">
         <ele>4.5</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390795" lon="-63.788956">
         <ele>4.5</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390799" lon="-63.789029">
         <ele>4.8</ele>
     </trkpt>
     <trkpt lat="46.39084" lon="-63.789964">
         <ele>4.0</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390927" lon="-63.791688">
         <ele>3.0</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390958" lon="-63.792302">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390972" lon="-63.792374">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391036" lon="-63.792681">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391144" lon="-63.793022">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391166" lon="-63.793104">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391225" lon="-63.793261">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391374" lon="-63.793543">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391443" lon="-63.793646">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.39168" lon="-63.79385">
         <ele>6.0</ele>
@@ -7620,143 +7529,45 @@
     </trkpt>
     <trkpt lat="46.391443" lon="-63.793646">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391374" lon="-63.793543">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391225" lon="-63.793261">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391166" lon="-63.793104">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391144" lon="-63.793022">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.391036" lon="-63.792681">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390972" lon="-63.792373">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390958" lon="-63.792302">
         <ele>2.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390927" lon="-63.791688">
         <ele>3.0</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390924" lon="-63.791646">
         <ele>3.0</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.39084" lon="-63.789964">
         <ele>4.0</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390799" lon="-63.789029">
         <ele>4.8</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390795" lon="-63.788956">
         <ele>4.5</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     <trkpt lat="46.390773" lon="-63.788782">
         <ele>4.3</ele>
-        <extensions>
-        <gpxtpx:TrackPointExtension>
-        <gpxtpx:Extensions>
-            <surface>dirt</surface>
-        </gpxtpx:Extensions>
-        </gpxtpx:TrackPointExtension>
-        </extensions>
     </trkpt>
     </trkseg>
 </trk>
