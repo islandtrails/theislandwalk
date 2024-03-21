@@ -4,15 +4,39 @@ Maps and other resources for The Island Walk, Prince Edward Island.
 
 The Island Walk is a 700 km walking trail that loops around PEI. It takes approximately 32 days to complete if you walk 20-25 kilometres per day. However, not all walkers have to plan to walk 20-25 kms per day. There are many opportunities to complete the Island Walk in sections and spend more time exploring certain areas that appeal to you.
 
+In 2024, three shorter "coastal walks" were introduced: the North Cape Coastal Walk, the Central PEI Coastal Walk, and the Points East Coastal Walk. These walks primarily follow the route of the main Island Walk, but are self-contained regional walks starting and ending at the same place.
+
 This repository contains GIS data, maps, and other resources related to the walk; for more general information, consult [The Island Walk website](https://theislandwalk.ca).
 
 ## Route Maps
 
+### The Island Walk
 * [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/gpx/theislandwalk.gpx)
 * [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/routemap/geojson/theislandwalk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/routemap/geojson/theislandwalk.geojson))
 * [theislandwalk.info](https://theislandwalk.info) -- a simple web application showing the route map and 32 days of waypoints
 
+### Coastal Walks
+
+#### North Cape Coastal Walk
+
+* [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/north_cape_coastal_walk/gpx/north_cape_coastal_walk.gpx)
+https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/north_cape_coastal_walk/geojson/north_cape_coastal_walk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/coastal_walks/north_cape_coastal_walk/geojson/north_cape_coastal_walk.geojson))
+
+#### Central PEI Coastal Walk
+
+* [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/central_pei_coastal_walk/gpx/central_pei_coastal_walk.gpx)
+* [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/central_pei_coastal_walk/geojson/central_pei_coastal_walk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/coastal_walks/central_pei_coastal_walk/geojson/central_pei_coastal_walk.geojson))
+
+#### Points East Coastal Walk
+
+* [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/points_east_coastal_walk/gpx/points_east_coastal_walk.gpx)
+* [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/points_east_coastal_walk/geojson/points_east_coastal_walk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/coastal_walks/points_east_coastal_walk/geojson/points_east_coastal_walk.geojson))
+
 ## Changelog
+
+### 2024-03-21
+
+Added the route maps for the three coastal walks.
 
 ### 2024-03-20
 
