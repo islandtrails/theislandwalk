@@ -20,7 +20,7 @@ This repository contains GIS data, maps, and other resources related to the walk
 #### North Cape Coastal Walk
 
 * [GPX](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/north_cape_coastal_walk/gpx/north_cape_coastal_walk.gpx)
-https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/north_cape_coastal_walk/geojson/north_cape_coastal_walk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/coastal_walks/north_cape_coastal_walk/geojson/north_cape_coastal_walk.geojson))
+* [GeoJSON](https://raw.githubusercontent.com/islandtrails/theislandwalk/main/coastal_walks/north_cape_coastal_walk/geojson/north_cape_coastal_walk.geojson) ([preview](https://github.com/islandtrails/theislandwalk/blob/main/coastal_walks/north_cape_coastal_walk/geojson/north_cape_coastal_walk.geojson))
 
 #### Central PEI Coastal Walk
 
