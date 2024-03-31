@@ -34,6 +34,10 @@ This repository contains GIS data, maps, and other resources related to the walk
 
 ## Changelog
 
+### 2024-03-31
+
+Updated the route through Stratford to take the Hillsborough Bridge Active Transportation Path (rather than the Bunbury Road onramp to the bridge).
+
 ### 2024-03-21
 
 Added the route maps for the three coastal walks.
