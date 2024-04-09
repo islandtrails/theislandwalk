@@ -34,6 +34,11 @@ This repository contains GIS data, maps, and other resources related to the walk
 
 ## Changelog
 
+
+### 2024-04-09
+
+Updated the route through Stratford to follow the sidewalk from the main intersection, through Bunbury to the Duffy Road (where the sidewalk ends).
+
 ### 2024-03-31
 
 Updated the route through Stratford to take the Hillsborough Bridge Active Transportation Path (rather than the Bunbury Road onramp to the bridge).
