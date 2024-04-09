@@ -6,7 +6,7 @@
       "properties": {
         "_gpxType": "trk",
         "name": "The Island Walk",
-        "type": "Walking",
+        "type": "Walking"
  			},
       "geometry": {
         "type": "LineString",
